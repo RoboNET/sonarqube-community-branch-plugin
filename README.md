@@ -75,7 +75,7 @@ To use it, clone the repository, create a `.env` with `SONARQUBE_VERSION` define
 When using the
 [SonarQube official Helm Chart](https://github.com/SonarSource/helm-chart-sonarqube/tree/master/charts/sonarqube),
 add the following settings to your helm values, where `${version}` should be replaced with the plugin
-version (e.g. `25.4.0`).
+version (e.g. `25.8.0`).
 
 ```yaml
 community:
